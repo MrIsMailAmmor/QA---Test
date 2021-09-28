@@ -1,0 +1,32 @@
+body {
+  background-color: #dda15e;
+  color: white;
+}
+
+#TextExam {
+  border: 3px solid black;
+  padding: 20px;
+  text-align: justify;
+}
+
+input {
+  background-color: black;
+  color: white;
+  line-height: normal;
+  border-radius: 10%;
+}
+
+input:focus {
+  border: 2px solid black;
+  background: #eb5e28;
+  color: white;
+}
+
+.btnMot {
+  width: 120px;
+  border-radius: 10%;
+}
+
+.btnMotLarge {
+  width: 180px;
+}
